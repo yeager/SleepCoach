@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sleepcoach 0.2.0\n"
+"PO-Revision-Date: 2026-03-16 15:00+0100\n"
+"Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "SleepCoach"
+msgstr "SleepCoach"
+
+msgid "Routine"
+msgstr "Rutin"
+
+msgid "Sleep Log"
+msgstr "Sovlogg"
+
+msgid "Tips"
+msgstr "Tips"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "%d minutes"
+msgstr "%d minuter"
+
+msgid "Done!"
+msgstr "Klart!"
+
+msgid "Start Bedtime Routine"
+msgstr "Starta rutin vid sänggåendet"
+
+msgid "Log Tonight's Sleep"
+msgstr "Logga in nattens sömn"
+
+msgid "Bedtime (HH:MM)"
+msgstr "Sängtid (HH:MM)"
+
+msgid "Wake time (HH:MM)"
+msgstr "Tid för väckning (HH:MM)"
+
+msgid "Sleep quality (1-5)"
+msgstr "Sömnkvalitet (1-5)"
+
+msgid "Notes (optional)"
+msgstr "Anmärkningar (valfritt)"
+
+msgid "Save Sleep Log"
+msgstr "Spara sömnlogg"
+
+msgid "Recent Sleep History"
+msgstr "Senaste sömnhistorik"
+
+msgid "Avoid screens 30 min before bed"
+msgstr "Undvik skärmar 30 minuter före sänggåendet"
+
+msgid "Blue light suppresses melatonin production."
+msgstr "Blått ljus undertrycker melatoninproduktionen."
+
+msgid "Keep a consistent schedule"
+msgstr "Håll ett konsekvent schema"
+
+msgid "Go to bed and wake up at the same time every day."
+msgstr "Gå och lägg dig och vakna vid samma tid varje dag."
+
+msgid "Cool bedroom temperature"
+msgstr "Sval temperatur i sovrummet"
+
+msgid "18-20°C is ideal for sleep."
+msgstr "18-20°C är idealiskt för sömn."
+
+msgid "No caffeine after lunch"
+msgstr "Inget koffein efter lunch"
+
+msgid "Caffeine has a half-life of 5-6 hours."
+msgstr "Koffein har en halveringstid på 5-6 timmar."
+
+msgid "Exercise during the day"
+msgstr "Träning under dagen"
+
+msgid "But not within 2 hours of bedtime."
+msgstr "Men inte inom 2 timmar före sänggåendet."
+
+msgid "Use the bed only for sleep"
+msgstr "Använd sängen endast för sömn"
+
+msgid "Avoid working or watching TV in bed."
+msgstr "Undvik att arbeta eller titta på TV i sängen."
+
+msgid "Try deep breathing"
+msgstr "Försök med djupandning"
+
+msgid "4-7-8 technique: inhale 4s, hold 7s, exhale 8s."
+msgstr "4-7-8-teknik: Andas in 4 sekunder, håll 7 sekunder, andas ut 8 sekunder."
+
+msgid "Reduce noise"
+msgstr "Minska bullret"
+
+msgid "Use earplugs or white noise if needed."
+msgstr "Använd öronproppar eller vitt brus om det behövs."
+
+msgid "Write down worries"
+msgstr "Skriv ner bekymmer"
+
+msgid "A worry journal before bed can calm the mind."
+msgstr "En bekymmersdagbok före sänggåendet kan lugna sinnet."
+
+msgid "Dim the lights"
+msgstr "Dämpa belysningen"
+
+msgid "Start dimming lights 1 hour before bedtime."
+msgstr "Börja dämpa belysningen 1 timme före läggdags."
+
+msgid "No sleep data yet. Start logging!"
+msgstr "Inga sömndata ännu. Börja logga!"
+
+msgid "Sleep Statistics"
+msgstr "Statistik om sömn"
+
+msgid "Average quality"
+msgstr "Genomsnittlig kvalitet"
+
+msgid "Nights logged"
+msgstr "Nätter loggade"
+

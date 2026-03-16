@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sleepcoach package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sleepcoach 0.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-16 15:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: sleepcoach/window.py:15
+msgid "SleepCoach"
+msgstr ""
+
+#: sleepcoach/window.py:37
+msgid "Routine"
+msgstr ""
+
+#: sleepcoach/window.py:41
+msgid "Sleep Log"
+msgstr ""
+
+#: sleepcoach/window.py:45
+msgid "Tips"
+msgstr ""
+
+#: sleepcoach/window.py:49
+msgid "Statistics"
+msgstr ""
+
+#: sleepcoach/window.py:67
+#, python-format
+msgid "%d minutes"
+msgstr ""
+
+#: sleepcoach/window.py:67
+msgid "Done!"
+msgstr ""
+
+#: sleepcoach/window.py:80
+msgid "Start Bedtime Routine"
+msgstr ""
+
+#: sleepcoach/window.py:96
+msgid "Log Tonight's Sleep"
+msgstr ""
+
+#: sleepcoach/window.py:99
+msgid "Bedtime (HH:MM)"
+msgstr ""
+
+#: sleepcoach/window.py:103
+msgid "Wake time (HH:MM)"
+msgstr ""
+
+#: sleepcoach/window.py:107
+msgid "Sleep quality (1-5)"
+msgstr ""
+
+#: sleepcoach/window.py:112
+msgid "Notes (optional)"
+msgstr ""
+
+#: sleepcoach/window.py:117
+msgid "Save Sleep Log"
+msgstr ""
+
+#: sleepcoach/window.py:127
+msgid "Recent Sleep History"
+msgstr ""
+
+#: sleepcoach/window.py:163
+msgid "Avoid screens 30 min before bed"
+msgstr ""
+
+#: sleepcoach/window.py:163
+msgid "Blue light suppresses melatonin production."
+msgstr ""
+
+#: sleepcoach/window.py:164
+msgid "Keep a consistent schedule"
+msgstr ""
+
+#: sleepcoach/window.py:164
+msgid "Go to bed and wake up at the same time every day."
+msgstr ""
+
+#: sleepcoach/window.py:165
+msgid "Cool bedroom temperature"
+msgstr ""
+
+#: sleepcoach/window.py:165
+msgid "18-20°C is ideal for sleep."
+msgstr ""
+
+#: sleepcoach/window.py:166
+msgid "No caffeine after lunch"
+msgstr ""
+
+#: sleepcoach/window.py:166
+msgid "Caffeine has a half-life of 5-6 hours."
+msgstr ""
+
+#: sleepcoach/window.py:167
+msgid "Exercise during the day"
+msgstr ""
+
+#: sleepcoach/window.py:167
+msgid "But not within 2 hours of bedtime."
+msgstr ""
+
+#: sleepcoach/window.py:168
+msgid "Use the bed only for sleep"
+msgstr ""
+
+#: sleepcoach/window.py:168
+msgid "Avoid working or watching TV in bed."
+msgstr ""
+
+#: sleepcoach/window.py:169
+msgid "Try deep breathing"
+msgstr ""
+
+#: sleepcoach/window.py:169
+msgid "4-7-8 technique: inhale 4s, hold 7s, exhale 8s."
+msgstr ""
+
+#: sleepcoach/window.py:170
+msgid "Reduce noise"
+msgstr ""
+
+#: sleepcoach/window.py:170
+msgid "Use earplugs or white noise if needed."
+msgstr ""
+
+#: sleepcoach/window.py:171
+msgid "Write down worries"
+msgstr ""
+
+#: sleepcoach/window.py:171
+msgid "A worry journal before bed can calm the mind."
+msgstr ""
+
+#: sleepcoach/window.py:172
+msgid "Dim the lights"
+msgstr ""
+
+#: sleepcoach/window.py:172
+msgid "Start dimming lights 1 hour before bedtime."
+msgstr ""
+
+#: sleepcoach/window.py:196
+msgid "No sleep data yet. Start logging!"
+msgstr ""
+
+#: sleepcoach/window.py:206
+msgid "Sleep Statistics"
+msgstr ""
+
+#: sleepcoach/window.py:209
+msgid "Average quality"
+msgstr ""
+
+#: sleepcoach/window.py:214
+msgid "Nights logged"
+msgstr ""

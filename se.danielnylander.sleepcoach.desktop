@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=SleepCoach
+Name[sv]=Sömncoach
+Comment=Sleep routine and hygiene coach
+Comment[sv]=Sömnrutiner och sömnhygien-coach
+Exec=python3 -m sleepcoach
+Icon=preferences-system-time
+Terminal=false
+Type=Application
+Categories=Utility;Accessibility;
